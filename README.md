@@ -2,9 +2,9 @@
 #Install and run
 
 - cd build
--sudo rm -rf *
--sudo cmake ..
--sudo make -j
+- sudo rm -rf *
+- sudo cmake ..
+- sudo make -j
  
  OR
  
