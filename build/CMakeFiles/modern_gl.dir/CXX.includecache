@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jonas/Mynotes/ModernOpenGl/display.cpp
+display.h
+/home/jonas/Mynotes/ModernOpenGl/display.h
+iostream
+-
+GL/glew.h
+-
+
+/home/jonas/Mynotes/ModernOpenGl/display.h
+string
+-
+SDL2/SDL.h
+-
+
+/home/jonas/Mynotes/ModernOpenGl/main.cpp
+iostream
+-
+GL/glew.h
+-
+display.h
+/home/jonas/Mynotes/ModernOpenGl/display.h
+shaders.h
+/home/jonas/Mynotes/ModernOpenGl/shaders.h
+
+/home/jonas/Mynotes/ModernOpenGl/shaders.cpp
+shaders.h
+/home/jonas/Mynotes/ModernOpenGl/shaders.h
+iostream
+-
+fstream
+-
+
+/home/jonas/Mynotes/ModernOpenGl/shaders.h
+string
+-
+GL/glew.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/modern_gl.dir/display.cpp.o CMakeFiles/modern_gl.dir/main.cpp.o CMakeFiles/modern_gl.dir/shaders.cpp.o  -o ../modern_gl /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libGLEW.so -lSDL2 -lSDL2_image 

@@ -1,0 +1,3 @@
+/home/jonas/Mynotes/ModernOpenGl/build/CMakeFiles/rebuild_cache.dir
+/home/jonas/Mynotes/ModernOpenGl/build/CMakeFiles/modern_gl.dir
+/home/jonas/Mynotes/ModernOpenGl/build/CMakeFiles/edit_cache.dir
