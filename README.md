@@ -9,4 +9,5 @@
  OR
  
 Run script remake.sh 
-Command : sudo ./remake.sh
+
+- Command : sudo ./remake.sh
